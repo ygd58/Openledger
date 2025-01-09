@@ -1,5 +1,5 @@
 # Openledger
-### OpenLedgerHQ Node Kurulumu Rehberi (Türkçe)
+### OpenLedgerHQ Node Kurulumu Rehberi 
 
 Bu rehber, OpenLedger Worker Node kurulumunu farklı platformlarda gerçekleştirmek isteyen kullanıcılar için hazırlanmıştır. Aşağıdaki yöntemleri içermektedir:  
 1. **Chrome Eklentisi**  
